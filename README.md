@@ -1,2 +1,2 @@
 # Not-a-Project
-Store funny, weird, useless code
+To store funny, weird, useless code
